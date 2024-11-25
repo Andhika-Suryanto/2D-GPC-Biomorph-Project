@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 234d9ea48c0dcfd44b1c62fd7742cbd0
+  productGUID: c3867885d59038c49a98e8b6ba675c98
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: 2D-GPC-Moncsrolls-Project
+  companyName: Amara Origins Studio
+  productName: Biomorph
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -84,6 +84,7 @@ PlayerSettings:
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
   Force IOS Speakers When Recording: 0
+  audioSpatialExperience: 0
   deferSystemGesturesMode: 0
   hideHomeButton: 0
   submitAnalytics: 1
@@ -139,8 +140,9 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 1.0
-  preloadedAssets: []
+  bundleVersion: 1.1.1
+  preloadedAssets:
+  - {fileID: 11400000, guid: 1d24db7e945886b48967f68ce54c5169, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -722,14 +724,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 2D-GPC-Moncsrolls-Project
+  metroPackageName: 2D-GPC-Biomorph-Project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 2D-GPC-Moncsrolls-Project
+  metroApplicationDescription: 2D-GPC-Biomorph-Project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -796,12 +798,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 800170af-f557-4f79-896c-6da12b33fbcd
+  cloudProjectId: 9a4477d5-a86b-4693-b065-8e6ae9abdb09
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 2D-GPC-Moncsrolls-Project
+  projectName: 2D-GPC-Biomorph-Project 2024-10-21_23-09-07
   organizationId: ahn_dokja
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
